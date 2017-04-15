@@ -9,7 +9,7 @@ while novo_jogo == "s"
 	#puts seu_numero
 
 	pc_numero = Random.rand(99) + 1
-	puts pc_numero
+	#puts pc_numero
 
 	tentativas = 1
 
